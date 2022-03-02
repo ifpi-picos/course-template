@@ -1,9 +1,9 @@
-# Programação para Internet I
+# Nome da Disciplina
 
-Este material faz parte da disciplina de Programação para Internet I do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí (IFPI) Campus Picos.
+Este material faz parte da disciplina de <nome da disciplina> do Curso <nome do curso> do Instituto Federal do Piauí (IFPI) Campus Picos.
 
 **Sumário**
-- [Programação para Internet I](#programação-para-internet-i)
+- [Nome da Disciplina](#nome-da-disciplina)
   - [Agenda](#agenda)
   - [Visão geral](#visão-geral)
   - [Objetivos de Aprendizagem](#objetivos-de-aprendizagem)
